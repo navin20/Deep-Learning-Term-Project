@@ -75,13 +75,10 @@ The video will  abit slow to detect due to using fasterrcnn resnet model if run 
 
 https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
 
-<p align="center">
-  <img width="460" height="300" src="screenshots/mod1.JPG">
-</p
- 
- <p align="right">
-  <img width="460" height="300" src="screenshots/mod2.JPG">
-</p
+![Repo_List](screenshots/mod1.JPG)
+
+
+![Repo_List](screenshots/mod2.JPG)
                 
 
 
