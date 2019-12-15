@@ -268,6 +268,22 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                                 
    # 6.Exporting inference graph
    
+   ## commands:
+   python export_inference_graph.py  --input_type image_tensor  --pipeline_config_path training/faster_rcnn_resnet50_coco.config --trained_checkpoint_prefix training/model.ckpt-600 --output_directory inference_graph
+   
+   
+   
+   
+   <p align="center">
+  <img width="607" height="261" src="screenshots/frozen.JPG">
+</p
+            
+            
+            
+##
+   
+   
+   
    
    
    
