@@ -342,6 +342,8 @@ and the mapping of number should be very similar to generate_tfrecords.py file
  <p align="center">
   <img width="607" height="261" src="screenshots/pretrained.JPG">
 </p
+
+#
             
             
   ### Model 1
@@ -354,7 +356,7 @@ and the mapping of number should be very similar to generate_tfrecords.py file
   
   
   
-  
+#  
   
   
   
