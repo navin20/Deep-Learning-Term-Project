@@ -5,7 +5,7 @@
              block. Each convolution block has 3 convolution layers and each identity block
              ResNet-50 is a convolutional neural network that is trained on more than a million images from the ImageNet database . The network is 50 layers deep and can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 224-by-224.
    <p align="center">
-  <img width="460" height="300" src="screenshots/resnet.JPG">
+  <img width="785" height="202" src="screenshots/resnet.JPG">
 </p
 
 
