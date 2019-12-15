@@ -1,5 +1,15 @@
 #                     Deeplearning Term-Project
 
+
+
+
+#    This project is about using resnet-50(Residual Neural Network) as a  feature extractor   with the help of tensorflow to help in detecting specific objects using transfer learning techniques
+
+
+
+
+
+
 ##                   Resnet-50
                  The ResNet-50 model consists of 5 stages each with a convolution and Identity
              block. Each convolution block has 3 convolution layers and each identity block
