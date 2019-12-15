@@ -39,7 +39,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection
 
 
 
-# File videopretrained.py and imagepretrained.py is for testing the sample images and video using pretrained model
+## File videopretrained.py and imagepretrained.py is for testing the sample images and video using pretrained model
 
 
 # Libraries needed to install:
