@@ -2,15 +2,19 @@
 
 #Tensorflow Object Detection for 3 Things:
 
- #Car
+ Car
+
+
 ![Repo_List](screenshots/ferari2.jpg)
         
         
-#Person
+Person
 
 
 
-#Bicycle
+
+
+Bicycle
 
 
 
