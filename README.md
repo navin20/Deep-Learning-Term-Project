@@ -205,6 +205,15 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   <p align="center">
   <img width="739" height="47" src="screenshots/finetune.JPG">
 </p
+            
+            
+            
+   
+  <p align="center">
+  <img width="113" height="253" src="screenshots/labelmap.JPG">
+</p
+            
+            
   
   
                    
@@ -225,6 +234,10 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
             
             
   <p align="center">
+  <img width="607" height="261" src="screenshots/epoch2.JPG">
+</p
+ 
+ <p align="center">
   <img width="607" height="261" src="screenshots/epoch2.JPG">
 </p
 
