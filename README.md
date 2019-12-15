@@ -1,5 +1,9 @@
 #                     Deeplearning Term-Project
 
+
+#                       Using resnet model to detect Objects
+
+
 # Tensorflow Object Detection for 3 Things:
 
             Car
