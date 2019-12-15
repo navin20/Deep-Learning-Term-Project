@@ -3,7 +3,7 @@
 Tensorflow Object Detection for 3 Things:
 
                         Car
-                        ![alt test](ferari.jpg)
+                        ![Repo_List](ferari.jpg)
                         
     
                         Person
