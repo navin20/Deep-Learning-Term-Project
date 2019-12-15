@@ -112,9 +112,9 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                                 
                                 2.Labeling data
                 
-                step 1: run labelimg.py then label the images according to 3 classes mentioned
+                        step 1: run labelimg.py then label the images according to 3 classes mentioned
        
-step 2: run python xml_to_csv.py    to convert xml files that is label to csv
+                        step 2: run python xml_to_csv.py    to convert xml files that is label to csv
                                 
                                 
                                 3.Generating TFRecords for training
