@@ -78,7 +78,7 @@ https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
 <p align="center">
   <img width="460" height="300" src="screenshots/mod1.JPG">
 </p
-            <p align="center">
+ <p align="center">
   <img width="460" height="300" src="screenshots/mod2.JPG">
 </p
                 
