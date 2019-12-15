@@ -129,8 +129,8 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                                 
   #  2.Labeling data
 [LabelImg GitHub link](https://github.com/tzutalin/labelImg)
-                
-                        step a: run labelimg.py then label the images according to 3 classes mentioned
+               
+ step a: run labelimg.py then label the images according to 3 classes mentioned
      
    <p align="center">
   <img width="460" height="300" src="screenshots/bus.JPG">
