@@ -287,6 +287,8 @@ and the mapping of number should be very similar to generate_tfrecords.py file
   <img width="607" height="261" src="screenshots/epoch2.JPG">
 </p
   
+  #
+  
 ## this  model works best with object being detected very far and is has more images of people or objects being detected far
  
 
