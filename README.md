@@ -289,6 +289,23 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
    
    
    # 7.Testing the object detector
+   
+   
+ ## try testing the  model with images or videos as an example with object_detection_video.py and object_detection_image.py
+ 
+ 
+ ## Here is an example of comparison of 3 models
+ 
+  ### Pretrained Model
+  
+  
+ <p align="center">
+  <img width="607" height="261" src="screenshots/pretrained.JPG">
+</p
+                        
+            
+       
+ 
 
 
 
