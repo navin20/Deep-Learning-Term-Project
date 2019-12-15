@@ -72,7 +72,7 @@ First Model and Second  Refer to:
 https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
 
 
-![Repo_List](screenshots/mod1.JPG)            ![Repo_List](screenshots/mod2.JPG)
+![Repo_List](screenshots/mod1.JPG)                                                  ![Repo_List](screenshots/mod2.JPG)
 
 
 
