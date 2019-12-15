@@ -75,10 +75,7 @@ The video will  abit slow to detect due to using fasterrcnn resnet model if run 
 
 https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
 
-![Repo_List](screenshots/mod1.JPG)
-
-
-![Repo_List](screenshots/mod2.JPG)
+![Repo_List](screenshots/mod1.JPG)                                                           ![Repo_List](screenshots/mod2.JPG)
                 
 
 
