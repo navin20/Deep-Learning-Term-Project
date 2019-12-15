@@ -153,11 +153,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
  
    # 1.Gathering data
                                 
-   https://www.kaggle.com/sanikamal/horses-or-humans-dataset
-                        
-   
-   https://www.kaggle.com/tongpython/cat-and-dog
-                                
+  [datasets](https://github.com/navin20/Deep-Learning-Term-Project/tree/master/datasets)
                                 
   #  2.Labeling data
 [LabelImg GitHub link](https://github.com/tzutalin/labelImg)
