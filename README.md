@@ -226,8 +226,13 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
         
   # 5.Training Model
   
-                                    train by command:
-                                   python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_resnet50_coco.config
+             train by command:
+                 
+                 
+                 
+                 
+                 
+                 python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_resnet50_coco.config
                                    
                                    
                                    
