@@ -137,6 +137,8 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
        
        
        
+       
+       
                         step b: run python xml_to_csv.py to convert xml files that is labeled to csv files
                         
                         
