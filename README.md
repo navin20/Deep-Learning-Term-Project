@@ -81,14 +81,33 @@
 
 
 # Libraries needed to install:
+tensorflow==1.14.0
 
-tensorflow==1.4.0
+
+protobuf
 
 
+pillow
+
+
+ lxml
+ 
+ 
+ Cython
+ 
+ 
+ jupyter
+ 
+ 
+ matplotlib
+ 
+ 
+ pandas
+ 
+ 
 opencv-python
 
 
-keras==2.0.0
 
 
 # environment needed to train:
