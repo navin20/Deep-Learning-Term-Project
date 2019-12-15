@@ -37,6 +37,9 @@ reference code: for training and testing the model
 https://github.com/tensorflow/models/blob/master/research/object_detection
 
 
+
+
+
 File videopretrained.py and imagepretrained.py is for testing the sample images and video using pretrained model
 
 
@@ -59,6 +62,22 @@ https://github.com/tzutalin/labelImg
 
 
 The video will  abit slow to detect due to using fasterrcnn resnet model if run on local computer not cloud
+
+
+
+
+First Model and Second  Refer to:
+https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
+
+
+
+
+
+PreTrained Refer to:
+
+faster_rcnn_resnet50_coco
+
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
 
 
