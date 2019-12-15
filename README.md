@@ -166,14 +166,14 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 # 3.Generating TFRecords for training
 
 <p align="center">
-  <img width="500" height="200" src="screenshots/tf.PNG">
+  <img width="500" height="400" src="screenshots/tf.PNG">
 </p
         
 
 
 
 
-
+#
 
 
 
