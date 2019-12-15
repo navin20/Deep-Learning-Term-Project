@@ -115,7 +115,9 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                 
                         step a: run labelimg.py then label the images according to 3 classes mentioned
      
-   ![Repo_List](screenshots/bus.JPG)   
+   <p align="center">
+  <img width="460" height="300" src="screenshots/bus.JPG">
+</p
                         
        
                         step b: run python xml_to_csv.py to convert xml files that is labeled to csv files
