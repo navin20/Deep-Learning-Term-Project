@@ -67,7 +67,14 @@ The video will  abit slow to detect due to using fasterrcnn resnet model if run 
 
 
 First Model and Second  Refer to:
+
+
 https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
+
+
+![Repo_List](screenshots/mod1.jpg)            ![Repo_List](screenshots/mod2.jpg)
+
+
 
 
 
@@ -75,9 +82,20 @@ https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
 
 PreTrained Refer to:
 
+
 faster_rcnn_resnet50_coco
 
+
+
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
+
+
+   ![Repo_List](screenshots/mod3.jpg)
+
+
+
+
 
 
 
