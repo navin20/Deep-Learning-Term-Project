@@ -330,13 +330,13 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 #      
        
        
-# Original References of the work and api
+# Other References
 
 
-# https://github.com/tensorflow/models/tree/master/research/object_detection
+## https://github.com/tensorflow/models/tree/master/research/object_detection
 
 
-# https://medium.com/object-detection-using-tensorflow-and-coco-pre/object-detection-using-tensorflow-and-coco-pre-trained-models-5d8386019a8
+## https://medium.com/object-detection-using-tensorflow-and-coco-pre/object-detection-using-tensorflow-and-coco-pre-trained-models-5d8386019a8
 
 
  
