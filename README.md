@@ -3,7 +3,7 @@
 Tensorflow Object Detection for 3 Things:
 
                         Car
-                        ![Repo_List](screenshots/ferari.jpg)
+                     
                         
     
                         Person
@@ -13,6 +13,9 @@ Tensorflow Object Detection for 3 Things:
                         Bicycle
 
 
+
+
+   ![Repo_List](screenshots/ferari.jpg)
 Main reference:
 
 https://medium.com/object-detection-using-tensorflow-and-coco-pre/object-detection-using-tensorflow-and-coco-pre-trained-models-5d8386019a8
