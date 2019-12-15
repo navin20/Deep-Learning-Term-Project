@@ -61,7 +61,7 @@ https://www.anaconda.com/distribution/
 # For labeliing each image by class you need:
 
 
-https://github.com/tzutalin/labelImg
+[LabelImg GitHub link](https://github.com/tzutalin/labelImg)
 
 
 
@@ -111,10 +111,14 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                                 
                                 
                                 2.Labeling data
+[LabelImg GitHub link](https://github.com/tzutalin/labelImg)
                 
-                        step 1: run labelimg.py then label the images according to 3 classes mentioned
+                        step a: run labelimg.py then label the images according to 3 classes mentioned
+     
+![Repo_List](screenshots/bus.JPG)   
+                        
        
-                        step 2: run python xml_to_csv.py    to convert xml files that is label to csv
+                        step b: run python xml_to_csv.py to convert xml files that is labeled to csv files
                                 
                                 
                                 3.Generating TFRecords for training
