@@ -115,7 +115,11 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
    
    
  #                               Steps for Training the model
-                                1.Gathering data
+ 
+ 
+ 
+ 
+   # 1.Gathering data
                                 
    https://www.kaggle.com/sanikamal/horses-or-humans-dataset
                         
@@ -123,7 +127,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
    https://www.kaggle.com/tongpython/cat-and-dog
                                 
                                 
-                                2.Labeling data
+  #  2.Labeling data
 [LabelImg GitHub link](https://github.com/tzutalin/labelImg)
                 
                         step a: run labelimg.py then label the images according to 3 classes mentioned
@@ -136,10 +140,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
        
        
        
-       
-       
-       
-                                   step b: run python xml_to_csv.py to convert xml files that is labeled to csv files
+     step b: run python xml_to_csv.py to convert xml files that is labeled to csv files
                         
                         
    <p align="center">
