@@ -133,7 +133,21 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 </p
                         
        
+       
+       
+       
+       
                         step b: run python xml_to_csv.py to convert xml files that is labeled to csv files
+                        
+                        
+   <p align="center">
+  <img width="460" height="300" src="screenshots/xml.JPG">
+</p
+            
+                        
+                        
+                        
+                        
                                 
                                 
                                 3.Generating TFRecords for training
