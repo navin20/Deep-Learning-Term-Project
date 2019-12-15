@@ -190,6 +190,8 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   example:
   
   
+ ## Fine tune the model using the pretrained model by using  transfer learning technique
+  
   
   <p align="center">
   <img width="739" height="47" src="screenshots/finetune.JPG">
