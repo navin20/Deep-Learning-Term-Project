@@ -187,10 +187,19 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   # 4.Configure Training by modifying parameters
   
   
-  example:
+ 
+ 
+ example:
   
   
+ 
+ 
+ 
  ## Fine tune the model using the pretrained model by using  transfer learning technique
+  
+  
+  
+  
   
   
   <p align="center">
