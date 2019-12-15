@@ -206,11 +206,13 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   <img width="739" height="47" src="screenshots/finetune.JPG">
 </p
             
-            
+  
+  
+## create labelmap.pbtxt to map class numbers with the class name needed for training process
             
    
-  <p align="center">
-  <img width="113" height="253" src="screenshots/labelmap.JPG">
+<p align="center">
+<img width="113" height="253" src="screenshots/labelmap.JPG">
 </p
             
             
