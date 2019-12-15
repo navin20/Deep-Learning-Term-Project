@@ -30,4 +30,8 @@ https://github.com/tzutalin/labelImg
 
 
 
+The video will  abit slow to detect due to using fasterrcnn resnet model if run on local computer not colab
+
+
+
 
