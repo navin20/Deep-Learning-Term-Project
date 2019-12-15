@@ -27,23 +27,22 @@
 
 
 
-  
-Main reference:
+ # Main reference:
 
 https://medium.com/object-detection-using-tensorflow-and-coco-pre/object-detection-using-tensorflow-and-coco-pre-trained-models-5d8386019a8
 
 
-reference code: for training and testing the model
+# reference code: for training and testing the model
 https://github.com/tensorflow/models/blob/master/research/object_detection
 
 
 
 
 
-File videopretrained.py and imagepretrained.py is for testing the sample images and video using pretrained model
+# File videopretrained.py and imagepretrained.py is for testing the sample images and video using pretrained model
 
 
-Libraries needed to install:
+# Libraries needed to install:
 
 tensorflow==1.4.0
 
@@ -54,7 +53,7 @@ opencv-python
 keras==2.0.0
 
 
-For labeliing each image by class you need:
+# For labeliing each image by class you need:
 
 
 https://github.com/tzutalin/labelImg
@@ -66,7 +65,7 @@ The video will  abit slow to detect due to using fasterrcnn resnet model if run 
 
 
 
-First Model and Second  Refer to:
+# First Model and Second  Refer to:
 
 
 https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
@@ -80,7 +79,7 @@ https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
 
 
 
-PreTrained Refer to:
+# PreTrained Refer to:
 
 
 faster_rcnn_resnet50_coco
