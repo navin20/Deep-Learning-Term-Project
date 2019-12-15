@@ -1,20 +1,28 @@
 # deeplearning
 
-#Tensorflow Object Detection for 3 Things:
+##Tensorflow Object Detection for 3 Things:
 
  Car
 
 
 ![Repo_List](screenshots/ferari2.jpg)
+
+
         
         
 Person
+
+
+![Repo_List](screenshots/people.jpg)
 
 
 
 
 
 Bicycle
+
+
+![Repo_List](screenshots/cycle.jpg)
 
 
 
