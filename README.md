@@ -195,7 +195,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
  
  
  
- ## Fine tune the model using the pretrained model by using  transfer learning technique
+ ## Fine tune the model to the pretrained model by using  transfer learning technique
   
   
   
