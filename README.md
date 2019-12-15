@@ -2,7 +2,7 @@
 
 Tensorflow Object Detection for 3 Things:
 
-    Car Person and Bicycle
+    Car      Person      and       Bicycle
 
 
 Main reference:
