@@ -35,7 +35,7 @@
 
  # Main reference for steps how to do:
 
- [Steps](https://github.com/navin20/deeplearning#reference-code-for-training-and-testing-the-model#Steps for Training the model)
+ [Steps](https://github.com/navin20/deeplearning#Steps-for-Training-the-model)
 
 
 # Main reference code: for training and testing the model
