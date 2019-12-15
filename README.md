@@ -156,14 +156,34 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                         
                         
                                 
-                                
-                                3.Generating TFRecords for training
-                                
-                                 4.Configuring training
+ # 3.Generating TFRecords for training
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+# 4.Configuring training
+
+
+
+
+
                                  
-                                 5.Training model
-                                6.Exporting inference graph
-                                 7.Testing object detector
+  # 5.Training model
+                   
+                   
+                   
+                                
+        
+  # 6.Exporting inference graph
+                                
+                             
+                             
+                             
+                                
+   # 7.Testing object detector
 
 
 
