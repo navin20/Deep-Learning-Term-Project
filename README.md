@@ -5,7 +5,9 @@
             Car
 
 
-   ![Repo_List](screenshots/ferari2.jpg)
+   <p align="center">
+  <img width="460" height="300" src="screenshots/ferari.jpg">
+</p>
 
 
         
@@ -13,7 +15,9 @@
           Person
 
 
-![Repo_List](screenshots/people.jpg)
+<p align="center">
+  <img width="460" height="300" src="screenshots/people.jpg">
+</p>
 
 
 
@@ -22,7 +26,9 @@
          Bicycle
 
 
-![Repo_List](screenshots/cycle.jpg)
+<p align="center">
+  <img width="460" height="300" src="cycle.jpg">
+</p>
 
 
 
