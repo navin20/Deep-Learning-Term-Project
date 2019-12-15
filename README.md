@@ -6,7 +6,7 @@
 
 
    <p align="center">
-  <img width="460" height="300" src="screenshots/ferari.jpg">
+  <img width="460" height="300" src="screenshots/ferari2.jpg">
 </p>
 
 
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="cycle.jpg">
+  <img width="460" height="300" src="screenshots/cycle.jpg">
 </p>
 
 
