@@ -226,6 +226,17 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
         
   # 5.Training Model
   
+                                    train by command:
+                                   python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_resnet50_coco.config
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+  
+  
+  
   Model 1 600 epoch with 50 images
   
   
@@ -239,9 +250,6 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   <img width="607" height="261" src="screenshots/epoch2.JPG">
 </p
  
- <p align="center">
-  <img width="607" height="261" src="screenshots/epoch2.JPG">
-</p
 
 #
 
