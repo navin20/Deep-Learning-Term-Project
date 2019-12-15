@@ -72,7 +72,7 @@ First Model and Second  Refer to:
 https://1drv.ms/u/s!AjtR5zyBlsc9jxNXSR0e0kfWMUsa?e=c2oZdD
 
 
-![Repo_List](screenshots/mod1.jpg)            ![Repo_List](screenshots/mod2.jpg)
+![Repo_List](screenshots/mod1.JPG)            ![Repo_List](screenshots/mod2.JPG)
 
 
 
@@ -91,7 +91,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 
 
 
-   ![Repo_List](screenshots/mod3.jpg)
+   ![Repo_List](screenshots/mod3.JPG)
 
 
 
