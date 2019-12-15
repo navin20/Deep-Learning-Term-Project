@@ -302,7 +302,28 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
  <p align="center">
   <img width="607" height="261" src="screenshots/pretrained.JPG">
 </p
-                        
+            
+            
+  ### Model 1
+  
+  
+   <p align="center">
+  <img width="607" height="261" src="screenshots/model1.JPG">
+</p
+     
+  
+  
+  
+  
+  
+  
+  
+  ### Model 2
+  
+  
+ <p align="center">
+  <img width="607" height="261" src="screenshots/model2.JPG">
+</p                       
             
        
  
