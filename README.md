@@ -1,10 +1,14 @@
 #                     Deeplearning Term-Project
 
 
-#                       Using resnet model to detect Objects
+#                      Using resnet model to detect Objects With the Help of tensorflow api
 
 
-# Tensorflow Object Detection for 3 Things:
+
+
+
+
+ #    Tensorflow Object Detection for 3 Things:
 
             Car
 
