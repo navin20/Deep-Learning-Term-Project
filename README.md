@@ -152,6 +152,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
  
  
    # 1.Gathering data
+   # data is not really from any high source or website with datasets it is random images from many searching websites
                                 
   [datasets](https://github.com/navin20/Deep-Learning-Term-Project/tree/master/datasets)
                                 
@@ -202,6 +203,8 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                                                   commands to generate tf records!!
   python generate_tfrecord.py — csv_input=images\train_labels.csv — image_dir=images\train — output_path=train.record
    python generate_tfrecord.py — csv_input=images\test_labels.csv — image_dir=images\test — output_path=test.record
+   
+## here data is converted from csv to tf records which basically turns the csv based on the class and the order mapped to the class in generate_tfrecords.py and also should be same as labelmap.pbtxt
         
 
 
@@ -223,7 +226,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
  
  
  
- ## Fine tune the model to the pretrained model by using  transfer learning technique
+ ## Fine tune the model to the pretrained model by using  transfer learning technique = as i said before this part using the pre trained mention below with freezing the last few layers and train the last few layers or 1 layer to make the current object detector  be familiar with the the pre trained model classes and what detects what since it has million of datas based on the coco datasets and many 1000 classes.
   
   
   
@@ -237,6 +240,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   
   
 ## create labelmap.pbtxt to map class numbers with the class name needed for training process
+and the mapping of number should be very similar to generate_tfrecords.py file
             
    
 <p align="center">
@@ -262,11 +266,15 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                                    
                                    
                                    
-                                   
+  ## Here the training steps really begins before was just data preprocessing labelling and modifying the model and config files.
+  
+  
+## Each step of training reports the loss, eventually it will come down as training progresses. It’s recommend to allow your model to train until the loss consistently drops below 0.05.                                 
   
   
   
   Model 1 600 epoch with 50 images
+  ## this model is pretty good with close objects and sometimes detect very good with them
   
   
   <p align="center">
@@ -278,6 +286,8 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   <p align="center">
   <img width="607" height="261" src="screenshots/epoch2.JPG">
 </p
+  
+## this  model works best with object being detected very far and is has more images of people or objects being detected far
  
 
 #
@@ -295,6 +305,8 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                              
                                 
    # 6.Exporting inference graph
+   
+   ## this is the part where the training ends and is exported as a form of frozen graph to help in detection after the train stops
    
    ## commands:
    python export_inference_graph.py  --input_type image_tensor  --pipeline_config_path training/faster_rcnn_resnet50_coco.config --trained_checkpoint_prefix training/model.ckpt-600 --output_directory inference_graph
@@ -352,7 +364,8 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
  <p align="center">
   <img width="607" height="261" src="screenshots/model2.JPG">
 </p                       
-            
+  
+  
        
        
 #      
