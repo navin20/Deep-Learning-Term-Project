@@ -15,10 +15,16 @@ File videopretrained.py and imagepretrained.py is for testing the sample images 
 Libraries needed to install:
 
 tensorflow==1.4.0
+
+
 opencv-python
+
+
 keras==2.0.0
 
+
 For labeliing each image by class you need:
+
 
 https://github.com/tzutalin/labelImg
 
