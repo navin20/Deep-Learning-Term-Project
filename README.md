@@ -185,6 +185,17 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 
                                  
   # 4.Configure Training by modifying parameters
+  
+  
+  example:
+  
+  
+  
+  <p align="center">
+  <img width="500" height="400" src="screenshots/finetune.JPG">
+</p
+  
+  
                    
                    
                    
