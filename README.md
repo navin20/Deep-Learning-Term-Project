@@ -33,12 +33,12 @@
 
 
 
- # Main reference:
+ # Main reference for steps how to do:
 
-https://medium.com/object-detection-using-tensorflow-and-coco-pre/object-detection-using-tensorflow-and-coco-pre-trained-models-5d8386019a8
+ [Steps](https://github.com/navin20/deeplearning#reference-code-for-training-and-testing-the-model#Steps for Training the model)
 
 
-# reference code: for training and testing the model
+# Main reference code: for training and testing the model
 https://github.com/tensorflow/models/blob/master/research/object_detection
 
 
@@ -327,6 +327,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
             
        
  
+
 
 
 
