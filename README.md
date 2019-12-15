@@ -154,9 +154,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
                         
                         
                         
-                        
-                                
- # 3.Generating TFRecords for training
+# 3.Generating TFRecords for training
  
  
  
