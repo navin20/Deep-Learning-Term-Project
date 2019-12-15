@@ -192,7 +192,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   
   
   <p align="center">
-  <img width="500" height="400" src="screenshots/finetune.JPG">
+  <img width="1000" height="400" src="screenshots/finetune.JPG">
 </p
   
   
