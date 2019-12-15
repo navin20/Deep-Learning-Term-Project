@@ -91,6 +91,29 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 
 
    ![Repo_List](screenshots/mod3.JPG)
+   
+   
+   
+   
+   
+ #                               Steps for Training the model
+                                1.Gathering data
+                                
+   https://www.kaggle.com/sanikamal/horses-or-humans-dataset
+                        https://www.kaggle.com/tongpython/cat-and-dog
+                                
+                                
+                                2.Labeling data
+                                
+                                
+                                3.Generating TFRecords for training
+                                
+                                 4.Configuring training
+                                 
+                                 5.Training model
+                                6.Exporting inference graph
+                                 7.Testing object detector
+
 
 
 
