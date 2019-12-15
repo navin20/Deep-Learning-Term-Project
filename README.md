@@ -39,7 +39,7 @@
 
 
 # Main reference code: for training and testing the model
-[Code](https://github.com/navin20/deeplearning)
+[Code](https://github.com/navin20/deeplearning#)
 
 
 
