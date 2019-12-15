@@ -209,10 +209,31 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
   
                    
                    
-                   
+#
+
                                 
         
   # 5.Training Model
+  
+                       Model 1 600 epoch with 50 images
+  
+  
+  <p align="center">
+  <img width="739" height="47" src="screenshots/epoch1.JPG">
+</p
+            
+            
+            
+  <p align="center">
+  <img width="739" height="47" src="screenshots/epoch2.JPG">
+</p
+#
+            
+            
+            
+  
+  
+  
                                 
                              
                              
