@@ -373,12 +373,10 @@ and the mapping of number should be very similar to generate_tfrecords.py file
        
 # Other References
 
-
+##            API:
 ## https://github.com/tensorflow/models/tree/master/research/object_detection
 
-
-## https://medium.com/object-detection-using-tensorflow-and-coco-pre/object-detection-using-tensorflow-and-coco-pre-trained-models-5d8386019a8
-
+## How to use Transfer Learning
 
 ## https://machinelearningmastery.com/transfer-learning-for-deep-learning
 
