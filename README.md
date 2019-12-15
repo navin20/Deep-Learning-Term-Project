@@ -39,7 +39,7 @@
 
 
 # Main reference code: for training and testing the model
-https://github.com/tensorflow/models/blob/master/research/object_detection
+[Code](https://github.com/navin20/deeplearning)
 
 
 
